@@ -15,4 +15,4 @@ jobs:
       - name: Deploy to Replicate
         run: cog push r8.im/aiaprendefacil-hugo/meu-modelo-imagens
         env:
-          REPLICATE_API_TOKEN: ${{Bearer r8_8UhgbHjmFk1D6IuChOIrfHgzVpblztq0aBJqf}}
+          REPLICATE_API_TOKEN: ${{r8_8UhgbHjmFk1D6IuChOIrfHgzVpblztq0aBJqf}}
